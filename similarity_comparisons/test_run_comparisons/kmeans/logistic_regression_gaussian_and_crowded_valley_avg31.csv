@@ -1,0 +1,14 @@
+,Cluster
+cifar10_3c3d,1
+cifar100_allcnnc,2
+fmnist_2c2d,1
+svhn_wrn164,1
+tolstoi_char_rnn,1
+logistic_regression_cifar100,0
+logistic_regression_cifar10,0
+logistic_regression_fmnist,0
+logistic_regression_mnist,2
+logistic_regression_svhn,0
+logistic_regression_gaussian_exact_param,0
+logistic_regression_gaussian_over_param,0
+logistic_regression_gaussian_over_param,2

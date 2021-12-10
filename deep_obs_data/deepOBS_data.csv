@@ -1,0 +1,25 @@
+performance,speed,optimizer,data,task type
+87.4,51.1,SGD,Quadratic Deep,Minimization
+87.05,70.5,Momentum,Quadratic Deep,Minimization
+87.11,39.9,Adam,Quadratic Deep,Minimization
+38.46,1,SGD,MNIST VAE,Generative
+52.93,1,Momentum,MNIST VAE,Generative
+27.83,1,Adam,MNIST VAE,Generative
+92.27,40.6,SGD,F-MNIST VAE,Classification
+92.14,59.1,Momentum,F-MNIST VAE,Classification
+92.34,40.1,Adam,F-MNIST VAE,Classification
+83.71,42.5,SGD,CIFAR-10 CNN,Classification
+84.41,40.7,Momentum,CIFAR-10 CNN,Classification
+84.75,36,Adam,CIFAR-10 CNN,Classification
+23.8,1,SGD,F-MNIST VAE,Generative
+59.23,1,Momentum,F-MNIST VAE,Generative
+23.07,1,Adam,F-MNIST VAE,Generative
+57.06,128.7,SGD,CIFAR-100 All CNN C,Classification
+60.33,72.8,Momentum,CIFAR-100 All CNN C,Classification
+56.15,152.6,Adam,CIFAR-100 All CNN C,Classification
+95.37,28.3,SGD,SVHN Wide ResNet,Classification
+95.53,10.8,Momentum,SVHN Wide ResNet,Classification
+95.25,12.1,Adam,SVHN Wide ResNet,Classification
+62.07,47.7,SGD,Tolsoi Char RNN,NLP
+61.3,88,Momentum,Tolsoi Char RNN,NLP
+61.23,62.8,Adam,Tolsoi Char RNN,NLP

@@ -1,0 +1,14 @@
+objective,Cluster
+cifar10_3c3d,0
+cifar100_allcnnc,0
+fmnist_2c2d,0
+svhn_wrn164,0
+tolstoi_char_rnn,0
+logistic_regression_cifar100,1
+logistic_regression_cifar10,2
+logistic_regression_fmnist,0
+logistic_regression_mnist,0
+logistic_regression_svhn,1
+logistic_regression_gaussian_exact_param,0
+logistic_regression_gaussian_over_param,0
+logistic_regression_gaussian_over_param,0

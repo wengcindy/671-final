@@ -1,0 +1,9 @@
+Task,SGD,Momentum,Adam
+Quadratic deep (minimization),3,1,2
+MNIST VAE (generative),2,3,1
+F-MNIST VAE (classification),2,3,1
+CIFAR-10 CNN (classification),3,2,1
+F-MNIST VAE (generative),2,3,1
+CIFAR-100 All CNN C (classification),3,2,1
+SVHN Wide Resnet (classification),3,1,2
+Tolstoi Char RNN (NLP),1,2,3
