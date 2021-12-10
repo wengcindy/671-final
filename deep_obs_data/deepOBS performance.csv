@@ -1,9 +1,0 @@
-Task,SGD,Momentum,Adam
-Quadratic deep (minimization),87.4,87.05,87.11
-MNIST VAE (generative),38.46,52.93,27.83
-F-MNIST VAE (classification),92.27,92.14,92.34
-CIFAR-10 CNN (classification),83.71,84.41,84.75
-F-MNIST VAE (generative),23.8,59.23,23.07
-CIFAR-100 All CNN C (classification),57.06,60.33,56.15
-SVHN Wide Resnet (classification),95.37,95.53,95.25
-Tolstoi Char RNN (NLP),62.07,61.3,61.23
